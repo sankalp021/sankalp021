@@ -8,7 +8,7 @@ Currently a Software Engineer at **Photonmatters**, working on:
 - 📊 **Data pipelines & automated reporting** over large-scale financial datasets with Elasticsearch and Kibana
 - ⚡ **FastAPI backend services** for search, dynamic filtering, and aggregations
 
-Off the clock: led my team to the **Smart India Hackathon 2023 Grand Finale** (top 5 nationally) and took a **global #2 at MetaByte Hackathon**.
+Off the clock: led my team to the **Smart India Hackathon 2023 Grand Finale** .
 
 ## 💻 Tech Stack
 
