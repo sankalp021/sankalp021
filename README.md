@@ -30,7 +30,6 @@ Off the clock: led my team to the **Smart India Hackathon 2023 Grand Finale** .
 
 ## 🚀 Featured Projects
 
-<!-- TODO: Replace the # placeholders below with your actual repo + live links, then PIN these repos on your profile -->
 
 - **[AI Travel Itinerary Generator](https://github.com/sankalp021/travel-app)** — Next.js + Gemini API. Generates personalized day-wise itineraries with budget estimates, stay suggestions, and a contextual trip-chat assistant. ([Live demo](https://mondee-compass-demo.vercel.app/))
 - **[Byte Newz — AI News Aggregator](https://github.com/sankalp021/newsapp)** — Fetches and categorizes news in real time, then generates concise 100-word AI summaries. ([Live demo](https://bytenewz.vercel.app/))
